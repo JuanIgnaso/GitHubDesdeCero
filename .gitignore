@@ -1,7 +1,2 @@
-#Líneas que empiecen por '#' son ignoradas y se pueden usar a modo comentario.
-#
-#Si se pone un '/' al final solo matcheará directorios
-#
-#escribiendo por ejemplo: /dir/** ignorará todos los archivos dentro del directorio relativo
-#encontrado dentro del directorio base.
-/archivo2.html
+#Esto es un comentario
+inicio/**/fin
