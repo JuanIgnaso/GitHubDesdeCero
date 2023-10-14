@@ -1,5 +1,5 @@
 #Esto es un comentario
-**/inicio
+/inicio
 *.py
 *.js
-*.html
+#*.html
